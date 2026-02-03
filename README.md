@@ -1,93 +1,127 @@
 # 🏄‍♂️ Aashish
 
-**Frontend / Full Stack / MERN Developer | Job Seeker**
+### 💻 Frontend / Full Stack / MERN Developer | 🎯 Job Seeker
 
-I’m a **React-focused Frontend & Full Stack developer** passionate about building clean, responsive, and scalable web applications. I enjoy turning designs into smooth user experiences and connecting them with reliable backend systems using **Node.js and Express**.
+👋 I am a **BCA graduate (2025)** with a strong interest in **frontend and full stack web development**. I enjoy building clean, responsive user interfaces and connecting them with backend logic using **Node.js and Express**.
 
-I focus on **fundamentals, real-world problem solving**, and writing code that’s easy to read, maintain, and extend. Actively looking for opportunities where I can learn fast, contribute meaningfully, and grow as a developer.
-
----
-
-## 🚀 What I’m Working On
-
-* Building **React-based frontend applications**
-* Developing **REST APIs** with Node.js & Express
-* Working with **MongoDB and MySQL** for real-world data handling
-* Improving code quality, performance, and UI/UX
-* Preparing for **Frontend / Full Stack / MERN** roles
+🚀 As a fresher, I focus on **strong fundamentals, hands-on practice**, and continuous learning to become a production-ready developer.
 
 ---
 
-## 🧠 Tech Stack
+## 🎯 Career Objective
 
-### Frontend
-
-* **React**, JavaScript (ES6+)
-* HTML5, CSS3
-* Responsive layouts & component-based UI
-
-### Backend
-
-* **Node.js**, **Express.js**
-* RESTful API design
-* Authentication & basic authorization concepts
-
-### Database
-
-* **MongoDB**
-* **MySQL**
-
-### Tools & Workflow
-
-* Git & GitHub
-* VS Code
-* Basic debugging & API testing
+🎯 To secure a responsible and challenging position where I can apply my technical skills, grow professionally, and contribute to organizational success through dedication and consistent effort.
 
 ---
 
-## 🧩 Projects (Highlights)
+## 🎓 Education
 
-* **Frontend-focused applications** using React
-* CRUD-based full stack apps with Node.js, Express, and MongoDB
-* API-driven UI integrations
-  *(More projects actively being built and improved)*
+🎓 **Bachelor of Computer Applications (BCA)**
+📍 CCS University, Meerut — *2025*
+
+🏫 **Class XII (UP Board)**
+📍 SD Inter College, Kanker Khera, Meerut — *2019*
+
+🏫 **Class X (UP Board)**
+📍 SD Inter College, Kanker Khera, Meerut — *2021*
 
 ---
 
-## 🎯 Career Goals
+## 🧠 Technical Skills
 
-* Frontend / Full Stack / MERN Developer role
-* Work on production-grade applications
-* Learn from experienced engineers and ship real features
-* Grow into a strong, well-rounded software developer
+### 🌐 Web Development
+
+⚛️ React
+📄 HTML5
+🎨 CSS3
+🧠 JavaScript (Basics)
+
+### 🖥 Backend & Databases
+
+🟢 Node.js
+🚀 Express.js
+🍃 MongoDB
+🗄 MySQL
+
+### 💻 Programming Languages
+
+🧩 C
+🧩 C++
+🐍 Python
+
+### 🛠 IT & Computer Skills
+
+🧰 Computer Hardware Installation & Assembly
+🔧 Hardware & Software Troubleshooting
+🪟 Windows Installation & Support
+🌐 Basic Networking & Network Troubleshooting
+🧑‍💻 Technical & IT Hardware Support
+
+---
+
+## 📜 Certifications
+
+📘 **CCC (Course on Computer Concepts)** — NIELIT (2023)
+☁️ **Introduction to Cloud Computing** — IBM (2023)
+
+---
+
+## 🧩 Projects & Practice
+
+🛠 React-based frontend applications
+🔄 CRUD applications using Node.js, Express & MongoDB
+🗃 Database-driven apps using MySQL
+🚧 Projects are actively being improved and pushed to GitHub
+
+---
+
+## 💡 Soft Skills
+
+🤝 Teamwork
+🧠 Problem Solving
+⏱ Time Management
+🎯 Decision Making
+
+---
+
+## 🧑‍💻 Experience
+
+👶 **Fresher**
+✅ Open to internships, trainee & entry-level roles
 
 ---
 
 ## 🌍 Location
 
-**Noida / Delhi / Ghaziabad**
-(Open to onsite & nearby opportunities)
+📍 **Noida / Delhi / Ghaziabad**
 
 ---
 
 ## 🔗 GitHub
 
-👉 [https://github.com/Aashish-kum](https://github.com/Aashish-kum)
-
-(Actively pushing code, projects, and improvements)
+🐙 [https://github.com/Aashish-kum](https://github.com/Aashish-kum)
 
 ---
 
-> I care about **learning by building**.
-> Give me real problems—I’ll give you real effort.
+## 📌 Personal Details
+
+🎂 Date of Birth: **03/07/2004**
+👨 Gender: Male
+🗣 Language: Hindi
+🇮🇳 Nationality: Indian
 
 ---
 
-If you want next, I can:
+> 🚀 I believe in **learning by building**
+> 💡 Give me real problems, I’ll give you real effort
 
-* 🔹 Make it **ATS-friendly for resumes**
-* 🔹 Rewrite it for **LinkedIn bio**
-* 🔹 Add **project descriptions** from your GitHub
-* 🔹 Shorten it for **GitHub README**
+---
 
-Just tell me **one word**: `resume`, `linkedin`, `github`, or `projects`. 🚀
+If you want, I can now convert this into:
+
+* 🧾 **ATS Resume**
+* 🐙 **GitHub README**
+* 💼 **LinkedIn “About”**
+* 📂 **Project section with icons**
+
+Just say **one word**.
