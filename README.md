@@ -2,32 +2,23 @@
 
 ### 💻 Frontend / Full Stack / MERN Developer | 🎯 Job Seeker
 
-👋 I am a **BCA graduate (2025)** with a strong interest in **frontend and full stack web development**. I enjoy building clean, responsive user interfaces and connecting them with backend logic using **Node.js and Express**.
+I build **responsive, user-focused web applications** with a strong emphasis on **React**, clean code, and real-world usability. I enjoy turning ideas into **production-ready interfaces** and continuously improving my skills across frontend and full stack development.
 
-🚀 As a fresher, I focus on **strong fundamentals, hands-on practice**, and continuous learning to become a production-ready developer.
-
----
-
-## 🎯 Career Objective
-
-🎯 To secure a responsible and challenging position where I can apply my technical skills, grow professionally, and contribute to organizational success through dedication and consistent effort.
+Alongside web development, I have a solid foundation in **computer hardware, system support, and troubleshooting**, giving me a strong understanding of how software and systems work together.
 
 ---
 
-## 🎓 Education
+## 🚀 What I’m Focused On
 
-🎓 **Bachelor of Computer Applications (BCA)**
-📍 CCS University, Meerut — *2025*
-
-🏫 **Class XII (UP Board)**
-📍 SD Inter College, Kanker Khera, Meerut — *2019*
-
-🏫 **Class X (UP Board)**
-📍 SD Inter College, Kanker Khera, Meerut — *2021*
+⚛️ Frontend & **Full Stack (MERN)** development
+🎨 Building performant, reusable UI components with **React**
+🔗 Integrating frontend applications with backend APIs (**Node.js + Express**)
+🧠 Strengthening core programming & system fundamentals
+📈 Actively seeking opportunities to learn, contribute, and grow
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Tech Stack & Skills
 
 ### 🌐 Web Development
 
@@ -49,79 +40,47 @@
 🧩 C++
 🐍 Python
 
-### 🛠 IT & Computer Skills
+### 🛠 IT & System Skills (from CV)
 
 🧰 Computer Hardware Installation & Assembly
 🔧 Hardware & Software Troubleshooting
 🪟 Windows Installation & Support
-🌐 Basic Networking & Network Troubleshooting
+🌐 Computer Networking & Network Troubleshooting
 🧑‍💻 Technical & IT Hardware Support
 
----
-
-## 📜 Certifications
-
-📘 **CCC (Course on Computer Concepts)** — NIELIT (2023)
-☁️ **Introduction to Cloud Computing** — IBM (2023)
-
----
-
-## 🧩 Projects & Practice
-
-🛠 React-based frontend applications
-🔄 CRUD applications using Node.js, Express & MongoDB
-🗃 Database-driven apps using MySQL
-🚧 Projects are actively being improved and pushed to GitHub
-
----
-
-## 💡 Soft Skills
+### 🧠 Soft Skills
 
 🤝 Teamwork
-🧠 Problem Solving
+🧩 Problem Solving
 ⏱ Time Management
 🎯 Decision Making
 
 ---
 
-## 🧑‍💻 Experience
+## 🌍 Based In
 
-👶 **Fresher**
-✅ Open to internships, trainee & entry-level roles
-
----
-
-## 🌍 Location
-
-📍 **Noida / Delhi / Ghaziabad**
+📍 **Noida / Delhi / Ghaziabad (India)**
 
 ---
 
-## 🔗 GitHub
+## 📂 GitHub
 
-🐙 [https://github.com/Aashish-kum](https://github.com/Aashish-kum)
-
----
-
-## 📌 Personal Details
-
-🎂 Date of Birth: **03/07/2004**
-👨 Gender: Male
-🗣 Language: Hindi
-🇮🇳 Nationality: Indian
+🐙 **[https://github.com/Aashish-kum](https://github.com/Aashish-kum)**
 
 ---
 
-> 🚀 I believe in **learning by building**
-> 💡 Give me real problems, I’ll give you real effort
+## 💡 Mindset
+
+> 🚀 I care about **shipping**, not hype.
+> 🛠 If it solves a real problem, I’m interested.
 
 ---
 
-If you want, I can now convert this into:
+If you want next:
 
-* 🧾 **ATS Resume**
-* 🐙 **GitHub README**
-* 💼 **LinkedIn “About”**
-* 📂 **Project section with icons**
+* 🐙 **GitHub README polish**
+* 🧾 **ATS resume version**
+* 💼 **LinkedIn About rewrite**
+* 📂 **Project descriptions from GitHub**
 
-Just say **one word**.
+Reply with **one word** and we’ll do it.
