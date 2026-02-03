@@ -1,86 +1,44 @@
-# 🏄‍♂️ Aashish
+# Hi 👋, I'm Aashish  
 
-### 💻 Frontend / Full Stack / MERN Developer | 🎯 Job Seeker
-
-I build **responsive, user-focused web applications** with a strong emphasis on **React**, clean code, and real-world usability. I enjoy turning ideas into **production-ready interfaces** and continuously improving my skills across frontend and full stack development.
-
-Alongside web development, I have a solid foundation in **computer hardware, system support, and troubleshooting**, giving me a strong understanding of how software and systems work together.
+💻 **Frontend / Full Stack Developer**  
+🚀 Passionate about building clean, responsive & user-friendly web apps  
+📍 India  
 
 ---
 
-## 🚀 What I’m Focused On
-
-⚛️ Frontend & **Full Stack (MERN)** development
-🎨 Building performant, reusable UI components with **React**
-🔗 Integrating frontend applications with backend APIs (**Node.js + Express**)
-🧠 Strengthening core programming & system fundamentals
-📈 Actively seeking opportunities to learn, contribute, and grow
-
----
-
-## 🧠 Tech Stack & Skills
-
-### 🌐 Web Development
-
-⚛️ React
-📄 HTML5
-🎨 CSS3
-🧠 JavaScript (Basics)
-
-### 🖥 Backend & Databases
-
-🟢 Node.js
-🚀 Express.js
-🍃 MongoDB
-🗄 MySQL
-
-### 💻 Programming Languages
-
-🧩 C
-🧩 C++
-🐍 Python
-
-### 🛠 IT & System Skills (from CV)
-
-🧰 Computer Hardware Installation & Assembly
-🔧 Hardware & Software Troubleshooting
-🪟 Windows Installation & Support
-🌐 Computer Networking & Network Troubleshooting
-🧑‍💻 Technical & IT Hardware Support
-
-### 🧠 Soft Skills
-
-🤝 Teamwork
-🧩 Problem Solving
-⏱ Time Management
-🎯 Decision Making
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I’m learning **Advanced JavaScript & Frameworks**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- ⚡ Fun fact: *I love learning new tech every day*
 
 ---
 
-## 🌍 Based In
+## 🛠️ Tech Stack
+**Languages**
+- HTML | CSS | JavaScript  
 
-📍 **Noida / Delhi / Ghaziabad (India)**
+**Frameworks & Libraries**
+- React | Angular | Bootstrap | Tailwind  
 
----
-
-## 📂 GitHub
-
-🐙 **[https://github.com/Aashish-kum](https://github.com/Aashish-kum)**
-
----
-
-## 💡 Mindset
-
-> 🚀 I care about **shipping**, not hype.
-> 🛠 If it solves a real problem, I’m interested.
+**Tools**
+- Git | GitHub | VS Code | Figma  
 
 ---
 
-If you want next:
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-* 🐙 **GitHub README polish**
-* 🧾 **ATS resume version**
-* 💼 **LinkedIn About rewrite**
-* 📂 **Project descriptions from GitHub**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-Reply with **one word** and we’ll do it.
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🐦 Twitter: https://twitter.com/yourhandle  
+- 📧 Email: yourname@gmail.com  
+
+---
+
+⭐ **If you like my work, don’t forget to star my repositories!**
