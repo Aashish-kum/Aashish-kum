@@ -38,7 +38,7 @@
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile  
 - 🐦 Twitter: https://twitter.com/yourhandle  
-- 📧 Email: yourname@gmail.com  
+- 📧 Email: ashimrt50@gmail.com  
 
 ---
 
