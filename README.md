@@ -20,10 +20,16 @@
 - HTML | CSS | JavaScript  
 
 **Frameworks & Libraries**
-- React | Angular | Bootstrap | Tailwind  
+- React | Bootstrap | Tailwind  
 
 **Tools**
-- Git | GitHub | VS Code | Figma  
+- Git | GitHub | VS Code | Figma
+
+
+💻 **Backend / Full Stack Developer** 
+
+**Frameworks & Libraries**
+- Node.js | Express | Bootstrap | Tailwind 
 
 ---
 
