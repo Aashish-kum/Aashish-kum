@@ -4,7 +4,7 @@
 🚀 Passionate about building clean, responsive & user-friendly web apps  
 📍 India  
 
-<!--
+
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Web Development Projects**
@@ -13,11 +13,11 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - ⚡ Fun fact: *I love learning new tech every day*
 
--->
 
+<!--
 # 💫 About Me:
 🔭 I’m currently working on: **IoT based Kitchen Gas Leakage Detection System**<br><br>👯 I’m looking to collaborate on: **Web Development and IoT Projects**<br><br>🤝 I’m looking for help with: **Advanced React.js, Node.js and IoT integrations**<br><br>🌱 I’m currently learning: **Data Science, Advanced Python, and Full-Stack Development**<br><br>💬 Ask me about: **JavaScript, Node.js, React, C++, and IoT projects**<br><br>⚡ Fun fact: **I love building real-world tech projects that solve everyday problems**<br>
-
+-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish._.712) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashish-prajapati-495858261) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GetforCode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishpraj357@gmail.com) 
